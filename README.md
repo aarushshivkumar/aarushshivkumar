@@ -3,7 +3,7 @@
 ###
 
 <div style="text-align: center;">
-  <img src="https://imgur.com/AT7772V.gif" style="width: 100%; max-width: 1584px; height: auto;" alt="GIF" />
+  <img src="https://imgur.com/a/fAfTsgY" style="width: 100%; max-width: 1584px; height: auto;" alt="GIF" />
 </div>
 
 
