@@ -25,7 +25,7 @@ I am excited to embark on a life-long career in these fields and make a differen
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="30" alt="matlab logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/StataCorp_logo.png" height="30" alt="stata logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Stata_logo_med_blue.png" height="30" alt="stata logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
