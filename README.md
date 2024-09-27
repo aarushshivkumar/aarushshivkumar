@@ -3,9 +3,8 @@
 ###
 
 <div style="text-align: center;">
-  <img src="https://imgur.com/a/fAfTsgY" style="width: 100%; max-width: 1584px; height: auto;" alt="GIF" />
+  <img src="https://drive.google.com/uc?export=view&id=1E-u4bLUBw8MSgAxWO9Yvp3JBhPEXhNWh" style="width: 100%; max-width: 1584px; height: auto;" alt="GIF" />
 </div>
-
 
 ###
 
@@ -26,7 +25,7 @@ I am excited to embark on a life-long career in these fields and make a differen
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="30" alt="matlab logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Stata-Logo.png" height="30" alt="stata logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/StataCorp_logo.png" height="30" alt="stata logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
