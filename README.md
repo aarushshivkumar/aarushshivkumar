@@ -3,7 +3,7 @@
 ###
 
 <div style="text-align: center;">
-  <img src="https://drive.google.com/uc?export=view&id=1crI0zE6SvNwTaZRJt65UdPd9JLIL4wDb" style="width: 100%; max-width: 1584px; height: auto;" alt="GIF" />
+  <img src="https://github.com/aarushshivkumar/aarushshivkumar/raw/main/a-ezgif.com-optimize.gif" style="width: 100%; max-width: 1584px; height: auto;" alt="GIF" />
 </div>
 
 ###
