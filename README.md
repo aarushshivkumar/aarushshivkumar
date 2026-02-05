@@ -8,9 +8,10 @@
 
 ###
 
-<p align="left"> I am a fourth-year Computer Science Engineering student with a passion for innovative technology and its many intersections with the dynamic world of econometrics, my minor.
-As an aspiring tech professional developing skills in data analytics, my academic journey has allowed me to make strides in bridging the gap between these two drastically different subjects. I am inquisitive and committed to detail, and always on the hunt for opportunities to expand my skillset and apply them in the real world.
-I am excited to embark on a life-long career in these fields and make a difference in the industry on a global scale.</p>
+<p align="left"> I am a Python developer with close to a year of hands-on industry experience, working across software, hardware and applied AI systems. My role has required me to wear multiple hats, often simultaneously and I have grown comfortable operating at the intersection of code, systems and physical computing, usually because the problem doesn’t politely stay in one area.
+I spend a lot of my time on applied artificial intelligence and machine learning (AI/ML), especially computer vision and LLMs but I approach models through an econometrics-informed lens, which mostly means I am suspicious of results that look too clean and performance only counts once it survives real data. I focus on building models that plug cleanly into systems, behave predictably and can be reasoned about after deployment. Due to this, I have also contributed to system architecture and design, helping ensure that model outputs interact reliably with other components and scale as intended.
+Beyond software, I have been hands-on with Raspberry Pi–based IoT systems, microcontroller tinkering, PCB design, as well as 3D modelling and printing. Sometimes this is prototyping but more often than not, it is simply the fastest way to settle a question.
+I like working on projects where I can see the whole thing come together and I tend to enjoy the messy middle where most of the real work happens. If any of this overlaps with what you’re working on, I'm always open to working together.</p>
 
 ###
 
